@@ -1,5 +1,4 @@
 # ORIENTED OBJECT PROGRAMMING
-## Praktikum 4
 
 
 ### Superclass dari BangunDatar
