@@ -15,7 +15,7 @@
         }
 
 
-### Subclass Lingkarn
+### Subclass Lingkaran
         //Subclass Lingkaran
         public class Lingkaran extends BangunDatar {
 
